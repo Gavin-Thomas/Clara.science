@@ -2,7 +2,7 @@
   <img src="https://github.com/Gavin-Thomas/Clara.science/blob/main/image/C.L.A.R.A.png?raw=true" alt="C.L.A.R.A logo" width="300"/>
 </p>
 
-# A Visual Mnemonic Tool for Med Students
+# An Adaptive, AI-based, Visual Mnemonic Tool for Med Students
 
 Hey everyone,
 
