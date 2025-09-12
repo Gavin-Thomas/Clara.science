@@ -1,5 +1,5 @@
 
-# CLARA-AI: A Visual Mnemonic Tool for Med Students
+# CLARA: A Visual Mnemonic Tool for Med Students
 
 Hey everyone,
 
