@@ -4,6 +4,8 @@
 
 # An Adaptive, AI-based, Visual Mnemonic Tool for Med Students
 
+## App: clara.science
+
 Hey everyone,
 
 My name is Gavin, and I'm an MS1 at the University of Calgary. Like many of you, I've found that one of the biggest challenges in med school is the sheer volume of information we need to memorize. I've always been a huge fan of visual learning tools like Sketchy, but I often wished I could have a custom mnemonic for a very specific topic or drug that wasn't covered.
